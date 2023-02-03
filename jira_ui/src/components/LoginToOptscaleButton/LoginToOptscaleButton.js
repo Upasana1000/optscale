@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 const LoginToOptscaleButton = ({ onLoginButtonClick, isLoading }) => (
   <LoadingButton isLoading={isLoading} appearance="primary" onClick={onLoginButtonClick}>
-    Log in to OptScale
+    Log in to CloudMonk
   </LoadingButton>
 );
 
