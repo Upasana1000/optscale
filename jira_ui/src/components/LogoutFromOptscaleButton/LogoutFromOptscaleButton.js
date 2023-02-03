@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 
 const LogoutFromOptscaleButton = ({ isLoading = false, onLogoutButtonClick }) => (
   <LoadingButton appearance="warning" isLoading={isLoading} onClick={onLogoutButtonClick}>
-    Log out from OptScale
+    Log out from CloudMonk
   </LoadingButton>
 );
 
