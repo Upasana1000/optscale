@@ -7,11 +7,11 @@ const ConnectToOptscaleSection = ({ onSuccessLogin, onSuccessLogout, isConnected
   const getConnectionContent = () => {
     const { message, button } = isConnected
       ? {
-          message: "You have connected your Jira to OptScale.",
+          message: "You have connected your Jira to CloudMonk.",
           button: <LogoutFromOptscaleButtonContainer onSuccess={onSuccessLogout} />
         }
       : {
-          message: "Please log in to OptScale to connect this Jira instance to your organization.",
+          message: "Please log in to CloudMonk to connect this Jira instance to your organization.",
           button: <LoginToOptscaleButtonContainer onSuccess={onSuccessLogin} />
         };
 
