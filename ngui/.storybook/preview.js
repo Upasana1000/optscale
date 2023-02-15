@@ -57,10 +57,10 @@ addDecorator((story, { kind }) => {
 addDecorator((story) => <Router>{story()}</Router>);
 addParameters({
   backgrounds: {
-    default: "OptScale",
+    default: "CloudMonk",
     values: [
       {
-        name: "OptScale",
+        name: "CloudMonk",
         // TODO: Get BACKGROUND color from theme
         value: "rgb(246, 247, 248)"
       }
