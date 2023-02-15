@@ -4,7 +4,7 @@ import { addons } from "@storybook/addons";
 addons.setConfig({
   theme: create({
     base: "light",
-    brandTitle: "Hystax OptScale",
+    brandTitle: "Infolob CloudMonk",
     brandUrl: "https://optscale.hystax.com/",
     barSelectedColor: "#184286"
   }
