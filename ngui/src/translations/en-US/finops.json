@@ -10,7 +10,7 @@
   "checklist.item5.title": "Create pools for all departments",
   "checklist.item6.description": "You can assign resources to specific owners and involve them in FinOps education to improve the cloud usage. You can invite new managers, engineers or simple members. Depending on an assigned role, a user will be able to monitor the expenses, set his own TTL rules and limitations, create pools, and more",
   "checklist.item6.title": "Invite teammates",
-  "checklist.item7.description": "Create TTL and constraint rules in OptScale, and establish clean-up policies with your team to get rid of obsolete and unused assets. Without TTL it's easy to forget about some resource and just lose it, but this resource setting will track the asset, and the solution will notify you when TTL constraint is violated.",
+  "checklist.item7.description": "Create TTL and constraint rules in CloudMonk, and establish clean-up policies with your team to get rid of obsolete and unused assets. Without TTL it's easy to forget about some resource and just lose it, but this resource setting will track the asset, and the solution will notify you when TTL constraint is violated.",
   "checklist.item7.title": "Set TTL rules for all resources",
   "checklist.item8.description": "Tagging resources in the cloud allows to unambiguously identify a resource owner, the purpose of the resource usage, etc. to achieve full transparency of your cloud resources and eliminate some challenges of a cost optimization process. Think over the rules, analyze and classify resources you have in the cloud. Work with the team to determine the tagging rules and apply them.",
   "checklist.item8.title": "Tag all resources",
