@@ -5,7 +5,7 @@ addons.setConfig({
   theme: create({
     base: "light",
     brandTitle: "Infolob CloudMonk",
-    brandUrl: "cloudmonk.infolob.com/",
+    brandUrl: "https://cloudmonk.infolob.com/",
     barSelectedColor: "#184286"
   }
 )});
